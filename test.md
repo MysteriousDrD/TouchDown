@@ -1,7 +1,8 @@
 Hello
-World
+*World
 This
-Is
+*Is
 A
-Test
+*Test
 File
+*
